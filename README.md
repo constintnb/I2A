@@ -53,5 +53,3 @@ The generated image will be saved as `1_output.jpg`, and the corresponding `cann
 - Pandas (for reading Parquet data)
 - Tqdm
 
-
-Translated with DeepL.com (free version)
